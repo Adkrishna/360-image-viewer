@@ -9,9 +9,10 @@
     "email": "dave.des@gmail.com",
     "url": "https://github.com/mattdesl"
   },
-  "engines": {
-    "node": "10.x"
-  },
+"engines": {
+    "node": "12.16.1",
+    "npm": "6.13.4"
+},
   "dependencies": {
     "defined": "^1.0.0",
     "object-assign": "^4.1.1",
